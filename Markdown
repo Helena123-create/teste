@@ -1,0 +1,15 @@
+Markdown
+# nome do projeto
+
+este projeto é sobre GitHub na prática
+
+## Grupo 7
+
+- helena
+- maria
+- jeff
+- maria f
+
+## link do projeto
+
+[clique aqui](https: //github.com/seu-projeto)
